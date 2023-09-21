@@ -1,0 +1,1 @@
+Ao rodar o "Teste_udyr_4" pode-se pressionar as teclas "Q,W,E,R" para ativar novas formas no personagem apresentado em tela.
